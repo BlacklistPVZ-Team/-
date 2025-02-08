@@ -77,7 +77,7 @@
     .lawyer-container { margin-top: 30px; flex-wrap: wrap; justify-content: center; }
     .help-containet-advokat { height: 150px; margin-top: 30px; }
     .help-containet-advokat p { font-size: 26px; width: 500px; }
-    .advokat-title p { font-size: 22px; width: 250px; margin-top: 30px; }
+    .advokat-title p { font-size: 22px; width: 25   0px; margin-top: 30px; }
     .advokat-container { flex-wrap: wrap; justify-content: center; }
     .advokat-image img, .advokat-image { width: 300px; height: 541.16px; border-radius: 25px; }
     .advokat-disc p { font-size: 16px; width: 350px; }
@@ -94,10 +94,11 @@
     .swiper-stars { width: 100.71px; height: 15px; }
     .swiper-name p { font-size: 14px; width: 350px; }
     .mySwiper { margin-top: 30px; height: 200px; }
-    .footer-grafic p, .footer-num p, .footer-menu1 p { font-size: 18px; width: 200px; }
+    .footer-grafic p, .footer-num p{ font-size: 18px; width: 200px; }
+    .footer-menu1 p{width: max-content; font-size: 18px;}
     .footer-job p, .footer-address p, .footer-inn p { font-size: 16px; width: 200px; }
     .footer-container { flex-wrap: wrap; justify-content: space-around; }
-    .footer-grafic, .footer-job, .footer-num, .footer-address, .footer-inn, .footer-menu1 { width: 200px; }
+    .footer-grafic, .footer-job, .footer-num, .footer-address, .footer-inn{ width: 200px;}
 }
 
 @media (max-width: 321px) {
