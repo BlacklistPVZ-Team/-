@@ -266,7 +266,7 @@ header {
     width: 455px;
 }
 
-.footer-menu1 p:nth-child(1) {
+#footm p{
     margin-top: 20px;
 }
 
